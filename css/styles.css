@@ -7418,9 +7418,11 @@ textarea.form-control-lg {
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 3rem;
+  
 
   img{
     width: 100%;
+    height: 300px;
     object-fit: cover;
   }
 }
