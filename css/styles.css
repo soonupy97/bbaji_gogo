@@ -7418,12 +7418,14 @@ textarea.form-control-lg {
   border-radius: 16px;
   overflow: hidden;
   margin-bottom: 3rem;
+  width: 240px;
   
 
   img{
     width: 100%;
     height: 300px;
     object-fit: cover;
+    object-position: center 30%;
   }
 }
 
