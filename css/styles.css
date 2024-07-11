@@ -7767,6 +7767,10 @@ textarea.form-control-lg {
 }
 }
 
+.col-md-6{
+  margin-bottom: 3rem !important;
+}
+
 .mb-auto {
   margin-bottom: auto !important;
 }
@@ -10943,7 +10947,7 @@ html {
 }
 
 .divider-custom {
-  margin: 1.25rem 0 1.5rem;
+  margin: 1.25rem 0 3rem;
   width: 100%;
   display: flex;
   justify-content: center;
