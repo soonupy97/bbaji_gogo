@@ -7719,6 +7719,7 @@ textarea.form-control-lg {
   
 
   .btn_go{
+    all: unset;
     width: 100%;
     /* max-width: 400px; */
     display: flex;
@@ -7737,7 +7738,7 @@ textarea.form-control-lg {
 
       a{
       padding: 8px;
-
+text-align: center;
         display: block;
         width: 100%;
         pointer-events: auto;
